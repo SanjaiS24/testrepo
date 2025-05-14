@@ -5,3 +5,5 @@ This edit was done within remote repo
 This edit was done to check fetch and pull
 
 The edit is to trace the merging mother repo and sub repo
+
+This edit is to test merging and branching, both
