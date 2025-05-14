@@ -4,4 +4,4 @@ Merge edit for mother repo and sub repo
 
 Dummy edit for rechecking merge
 
-Stash making
+Stash making for diff. stacks
